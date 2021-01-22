@@ -5,4 +5,4 @@
 📫 How to reach me: [@matthias_code](https://twitter.com/matthias_code), [YouTube](https://www.youtube.com/channel/UCvMdsKesM05bIG0eq7M5z1g), [LinkedIn](https://www.linkedin.com/in/matthias-zarzecki-b743353b/)
 
 Check out my iOS-Tutorials!
-[![Youtube Tutorial Link](youtube_screenshot.png)](https://youtu.be/KjhKIT7I22w "SwiftUI Skeleton Loading View - The Matthias iOS Development Show")
+[![Youtube Tutorial Link](youtube_screenshot_02.png)](https://youtu.be/KjhKIT7I22w "SwiftUI Skeleton Loading View - The Matthias iOS Development Show")
