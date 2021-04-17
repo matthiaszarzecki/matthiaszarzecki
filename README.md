@@ -1,3 +1,5 @@
+[![Twitter Follow](https://img.shields.io/twitter/follow/matthias_code.svg?style=social&label=Follow)](https://twitter.com/matthias_code) [![Youtube Subscribe](https://img.shields.io/youtube/channel/subscribers/UCvMdsKesM05bIG0eq7M5z1g?style=social)](https://www.youtube.com/channel/UCvMdsKesM05bIG0eq7M5z1g?sub_confirmation=1)
+
 👋 Hi! I'm Matthias and I make things in iOS and in Unity.
 
 📱 Currently making the [Backen.de](https://apps.apple.com/de/app/backen-de/id1441944766) iOS app at [Oetker Digital](https://github.com/OetkerDigital) / All About Cake.
