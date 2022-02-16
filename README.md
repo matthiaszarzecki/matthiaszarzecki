@@ -2,7 +2,7 @@
 
 👋 Hi! I'm Matthias and I make things in iOS and in Unity.
 
-📱 Currently making the [Backen.de](https://apps.apple.com/de/app/backen-de/id1441944766) iOS app at [Oetker Digital](https://github.com/OetkerDigital) / All About Cake.
+📱 Currently making various iOS Apps at Red Android in Berlin.
 
 📫 How to reach me: [@matthias_code](https://twitter.com/matthias_code), [YouTube](https://www.youtube.com/channel/UCvMdsKesM05bIG0eq7M5z1g?sub_confirmation=1), [LinkedIn](https://www.linkedin.com/in/%F0%9F%8D%8F-matthias-zarzecki-b743353b/)
 
