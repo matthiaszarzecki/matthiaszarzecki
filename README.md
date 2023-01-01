@@ -2,7 +2,7 @@
 
 👋 Hi! I'm Matthias and I make things in iOS and in Unity.
 
-📱 Currently making various iOS Apps at Red Android in Berlin.
+📱 Currently making various iOS Apps at Chrono24.
 
 📫 How to reach me: [@matthias_code](https://twitter.com/matthias_code), [YouTube](https://www.youtube.com/channel/UCvMdsKesM05bIG0eq7M5z1g?sub_confirmation=1), [LinkedIn](https://www.linkedin.com/in/%F0%9F%8D%8F-matthias-zarzecki-b743353b/)
 
