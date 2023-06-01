@@ -14,4 +14,3 @@ My current app in the store is [Standings - Basketball Widget](https://apps.appl
 | _ | _ | _ |
 :-------------------------:|:-------------------------:|:-------------------------:
 <img src="media/bb_appstore_6.5_01.png">|<img src="media/bb_appstore_6.5_02.png">|<img src="media/bb_appstore_6.5_03.png">
-<img src="media/bb_appstore_6.5_04.png">|<img src="media/bb_appstore_6.5_05.png">|<img src="media/bb_appstore_6.5_06.png">
