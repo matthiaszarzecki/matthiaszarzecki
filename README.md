@@ -9,8 +9,15 @@
 Check out my iOS-Tutorials!
 [![Youtube Tutorial Link](media/youtube_screenshot_03.png)](https://www.youtube.com/channel/UCvMdsKesM05bIG0eq7M5z1g?sub_confirmation=1 "The Matthias iOS Development Show Channel")
 
+## Featured App
 My current app in the store is [Standings - Basketball Widget](https://apps.apple.com/de/app/standings-basketball-widget/id1597533063?l=en), which allows you to follow your favorite team's score live on a widget on your home screen.
 
 | _ | _ | _ |
 :-------------------------:|:-------------------------:|:-------------------------:
 <img src="media/bb_appstore_6.5_01.png">|<img src="media/bb_appstore_6.5_02.png">|<img src="media/bb_appstore_6.5_03.png">
+
+## VR / AR
+I worked on various VR & AR projects, my favorite being ShortbowVR. Check out a video [here](https://www.youtube.com/watch?v=EDSy0RsnqVk)!
+| _ | _ |
+:-------------------------:|:-------------------------:
+<img src="media/shortbow_vr_video_01.png">|<img src="media/shortbow_vr_09.png">
