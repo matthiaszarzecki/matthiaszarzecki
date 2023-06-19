@@ -27,4 +27,4 @@ Released in 2011, nominated for a Unity Award and displayed at the Unite11 in Sa
 
 | _ | _ |
 :-------------------------:|:-------------------------:
-<img src="media/usb_screenshots/ipad_12.9_01.jpg">|<img src="media/usb_screenshots/iphone_3.5_03.jpg">
+<img src="media/usb_screenshots/ipad_12.9_01.jpg">|<img src="media/usb_screenshots/ipad_9.7_05.jpg">
