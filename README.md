@@ -28,3 +28,11 @@ Released in 2011, nominated for a Unity Award and displayed at the Unite11 in Sa
 | _ | _ |
 :-------------------------:|:-------------------------:
 <img src="media/usb_screenshots/ipad_12.9_01.jpg">|<img src="media/usb_screenshots/ipad_9.7_05.jpg">
+
+## Writing
+
+<details>
+  <summary>Open</summary>
+  - [How to Build a Prince-of-Persia-Style Time-Rewind System](https://gamedevelopment.tutsplus.com/how-to-build-a-prince-of-persia-style-time-rewind-system-part-1--cms-26090t)
+  - [How to Build Minesweeper](https://gamedevelopment.tutsplus.com/build-a-grid-based-puzzle-game-like-minesweeper-in-unity-setup--cms-21361t)
+</details>
