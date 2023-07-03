@@ -33,4 +33,4 @@ Released in 2011, nominated for a Unity Award and displayed at the Unite11 in Sa
 
 - [How to Build a Prince-of-Persia-Style Time-Rewind System](https://gamedevelopment.tutsplus.com/how-to-build-a-prince-of-persia-style-time-rewind-system-part-1--cms-26090t)
 - [How to Build Minesweeper](https://gamedevelopment.tutsplus.com/build-a-grid-based-puzzle-game-like-minesweeper-in-unity-setup--cms-21361t)
-- [How to use the Video Player in Unity]([https://gamedevelopment.tutsplus.com/build-a-grid-based-puzzle-game-like-minesweeper-in-unity-setup--cms-21361t](https://matthewongamedesign.wordpress.com/2019/07/28/how-to-use-the-video-player-in-unity/)https://matthewongamedesign.wordpress.com/2019/07/28/how-to-use-the-video-player-in-unity/)
+- [How to use the Video Player in Unity](https://matthewongamedesign.wordpress.com/2019/07/28/how-to-use-the-video-player-in-unity/)
