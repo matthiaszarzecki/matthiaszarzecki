@@ -20,7 +20,7 @@ In [Standings - Basketball Widget](https://apps.apple.com/de/app/standings-baske
 
 | _ | _ | _ |
 :-------------------------:|:-------------------------:|:-------------------------:
-<img src="media/bt_appstore_6.5_01.png">|<img src="media/bt_appstore_6.5_02.png">|<img src="media/bt_appstore_6.5_03.png">
+<img src="media/bt_appstore_6.5_01.jpg">|<img src="media/bt_appstore_6.5_02.jpg">|<img src="media/bt_appstore_6.5_03.jpg">
 
 ## VR / AR
 I worked on various VR & AR projects, my favorite being ShortbowVR. Check out a video [here](https://www.youtube.com/watch?v=EDSy0RsnqVk)!
