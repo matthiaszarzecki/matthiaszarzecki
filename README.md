@@ -23,19 +23,19 @@ In [Standings - Basketball Widget](https://apps.apple.com/de/app/standings-baske
 <img src="media/bt_appstore_6.5_01.jpg">|<img src="media/bt_appstore_6.5_02.jpg">|<img src="media/bt_appstore_6.5_03.jpg">
 
 ## VR / AR
-I worked on various VR & AR projects, my favorite being ShortbowVR. Check out a video [here](https://www.youtube.com/watch?v=EDSy0RsnqVk)!
+I worked on various VR & AR projects, my favorite being __ShortbowVR__. Check out a video [here](https://www.youtube.com/watch?v=EDSy0RsnqVk)!
 | _ | _ |
 :-------------------------:|:-------------------------:
 <img src="media/shortbow_vr_video_01.png">|<img src="media/shortbow_vr_09.png">
 
 ## Unity 3D
-Unstoppaball DX was nominated for a Unity Award 2011 and displayed at the Unite11 in San Francisco. It has 30000 downloads in the iOS App Store, and reach the 2nd place of the game charts in the iOS App Store.
+__Unstoppaball DX__ was nominated for a Unity Award 2011 and displayed at the Unite11 in San Francisco. It has 30000 downloads in the iOS App Store, and reach the 2nd place of the game charts in the iOS App Store.
 
 | _ | _ |
 :-------------------------:|:-------------------------:
 <img src="media/usb_screenshots/ipad_12.9_01.jpg">|<img src="media/usb_screenshots/ipad_9.7_05.jpg">
 
-Solar Tetris is a 3D Tetris game that is played from a joystick in the middle of the room. It is currently part of the Sonepar Exhibition at the Umwelt Arena near Zürich.
+__Solar Tetris__ is a 3D Tetris game that is played from a joystick in the middle of the room. It is currently part of the Sonepar Exhibition at the Umwelt Arena near Zürich.
 | _ | _ |
 :-------------------------:|:-------------------------:
 <img src="media/Solar_Tetris_3.JPG">|<img src="media/Solar_Tetris_2.JPG">
