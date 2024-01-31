@@ -33,7 +33,7 @@ __Unstoppaball DX__ was nominated for a Unity Award 2011 and displayed at the Un
 
 | _ | _ |
 :-------------------------:|:-------------------------:
-<img src="media/usb_screenshots/ipad_12.9_01.jpg">|<img src="media/usb_screenshots/ipad_9.7_05.jpg">
+<img src="media/usb_screenshots/ipad_12.9_02.jpg">|<img src="media/usb_screenshots/ipad_9.7_05.jpg">
 
 __Solar Tetris__ is a 3D Tetris game that is played from a joystick in the middle of the room. It is currently part of the Sonepar Exhibition at the Umwelt Arena near Zürich.
 | _ | _ |
