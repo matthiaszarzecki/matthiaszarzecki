@@ -1,10 +1,10 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/matthias_code?style=social)](https://twitter.com/matthias_code) [![Mastodon Follow](https://img.shields.io/mastodon/follow/109324799475945668?domain=https%3A%2F%2Fmastodon.cloud&style=social)](https://mastodon.cloud/@matthias_code) [![Youtube Subscribe](https://img.shields.io/youtube/channel/subscribers/UCvMdsKesM05bIG0eq7M5z1g?style=social)](https://www.youtube.com/channel/UCvMdsKesM05bIG0eq7M5z1g?sub_confirmation=1)
 
-👋 Hi! I'm Matthias and I make things in iOS, Flutter and in Unity.
+👋 Hi! I'm Matthias and I make things in iOS, Flutter and Unity.
 
-📱 Currently freelancing. Previously at Chrono24, Dr. Oetker, IBM iX.
+📱 Freelancing. Currently at Stihl. Previously at Chrono24, Dr. Oetker, IBM iX and others.
 
-📫 How to reach me: [@matthias_code](https://twitter.com/matthias_code), [YouTube](https://www.youtube.com/channel/UCvMdsKesM05bIG0eq7M5z1g?sub_confirmation=1), [LinkedIn](https://www.linkedin.com/in/%F0%9F%8D%8F-matthias-zarzecki-b743353b/), matthias.zarzecki [at] gmail.com
+📫 How to reach me: [@matthias_code](https://twitter.com/matthias_code), [YouTube](https://www.youtube.com/channel/UCvMdsKesM05bIG0eq7M5z1g?sub_confirmation=1), [LinkedIn](https://www.linkedin.com/in/%F0%9F%8D%8F-matthias-zarzecki-b743353b/), matthias.zarzecki [at] gmail.com.
 
 Check out my iOS-Tutorials!
 [![Youtube Tutorial Link](media/youtube_screenshot_03.png)](https://www.youtube.com/channel/UCvMdsKesM05bIG0eq7M5z1g?sub_confirmation=1 "The Matthias iOS Development Show Channel")
@@ -28,12 +28,18 @@ I worked on various VR & AR projects, my favorite being ShortbowVR. Check out a 
 :-------------------------:|:-------------------------:
 <img src="media/shortbow_vr_video_01.png">|<img src="media/shortbow_vr_09.png">
 
-## Unstoppaball DX
-Released in 2011, nominated for a Unity Award and displayed at the Unite11 in San Francisco, 30000 downloads in the iOS App Store, Top 3 Spots in Portugal, Italy & Spain
+## Unity 3D
+Unstoppaball DX was nominated for a Unity Award 2011 and displayed at the Unite11 in San Francisco. It has 30000 downloads in the iOS App Store, and reach the 2nd place of the game charts in the iOS App Store.
 
 | _ | _ |
 :-------------------------:|:-------------------------:
 <img src="media/usb_screenshots/ipad_12.9_01.jpg">|<img src="media/usb_screenshots/ipad_9.7_05.jpg">
+
+Solar Tetris is a 3D Tetris game that is played from a joystick in the middle of the room. It is currently part of the Sonepar Exhibition at the Umwelt Arena near Zürich.
+| _ | _ |
+:-------------------------:|:-------------------------:
+<img src="media/Solar_Tetris_3.JPG">|<img src="media/Solar_Tetris_2.JPG">
+
 
 ## Writing
 
