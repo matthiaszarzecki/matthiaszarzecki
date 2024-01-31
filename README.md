@@ -26,10 +26,10 @@ In [Standings - Basketball Widget](https://apps.apple.com/de/app/standings-baske
 I worked on various VR & AR projects, my favorite being __ShortbowVR__. Check out a video [here](https://www.youtube.com/watch?v=EDSy0RsnqVk)!
 | _ | _ |
 :-------------------------:|:-------------------------:
-<img src="media/shortbow_vr_video_01.png">|<img src="media/shortbow_vr_09.png">
+<img src="media/shortbow_vr_video_02.png">|<img src="media/shortbow_vr_09.png">
 
 ## Unity 3D
-__Unstoppaball DX__ was nominated for a Unity Award 2011 and displayed at the Unite11 in San Francisco. It has 30000 downloads in the iOS App Store, and reach the 2nd place of the game charts in the iOS App Store.
+__Unstoppaball DX__ was nominated for a Unity Award 2011 and displayed at the Unite11 in San Francisco. It has 30000 downloads in the iOS App Store, and reached the 2nd place of the game charts.
 
 | _ | _ |
 :-------------------------:|:-------------------------:
