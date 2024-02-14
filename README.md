@@ -7,7 +7,7 @@
 📫 How to reach me: [@matthias_code](https://twitter.com/matthias_code), [YouTube](https://www.youtube.com/channel/UCvMdsKesM05bIG0eq7M5z1g?sub_confirmation=1), [LinkedIn](https://www.linkedin.com/in/%F0%9F%8D%8F-matthias-zarzecki-b743353b/), matthias.zarzecki [at] gmail.com.
 
 Check out my iOS-Tutorials!
-[![Youtube Tutorial Link](media/youtube_screenshot_03.png)](https://www.youtube.com/channel/UCvMdsKesM05bIG0eq7M5z1g?sub_confirmation=1 "The Matthias iOS Development Show Channel")
+[![Youtube Tutorial Link](media/youtube_screenshot_04.png)](https://www.youtube.com/channel/UCvMdsKesM05bIG0eq7M5z1g?sub_confirmation=1 "The Matthias iOS Development Show Channel")
 
 ## Featured Apps
 In [Standings - Basketball Widget](https://apps.apple.com/de/app/standings-basketball-widget/id1597533063?l=en) you can follow your favorite basketball team's score live on a widget on your home screen.
