@@ -2,7 +2,7 @@
 
 👋 Hi! I'm Matthias and I make things in iOS, Flutter and Unity.
 
-📱 Freelancing. Currently at Stihl. Previously at Chrono24, Dr. Oetker, IBM iX, and others.
+📱 Freelancing. Currently at Stihl. Previously at Chrono24, Dr. Oetker, IBM iX, and others. Unity Award 2011 Nominee.
 
 📫 How to reach me: [@matthias_code](https://twitter.com/matthias_code), [YouTube](https://www.youtube.com/channel/UCvMdsKesM05bIG0eq7M5z1g?sub_confirmation=1), [LinkedIn](https://www.linkedin.com/in/%F0%9F%8D%8F-matthias-zarzecki-b743353b/), matthias.zarzecki [at] gmail.com.
 
