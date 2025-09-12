@@ -4,6 +4,8 @@
 
 📱 Freelancing. Currently at Stihl. Previously at Chrono24, Dr. Oetker, IBM iX, and others. Unity Award 2011 Nominee.
 
+Part of the [AppBaumeister Collective](https://www.appbaumeister.de/). Need a full app built? Come say hi! 
+
 📫 How to reach me: [@matthias_code](https://twitter.com/matthias_code), [YouTube](https://www.youtube.com/channel/UCvMdsKesM05bIG0eq7M5z1g?sub_confirmation=1), [LinkedIn](https://www.linkedin.com/in/%F0%9F%8D%8F-matthias-zarzecki-b743353b/), matthias.zarzecki [at] gmail.com.
 
 Check out my iOS-Tutorials!
