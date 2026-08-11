@@ -2,11 +2,11 @@
 
 👋 Hi! I'm Matthias and I make things in iOS & Flutter.
 
-📱 Freelancing. Previously at IBM iX, Stihl, Dr. Oetker, and others. Unity Award 2011 Nominee.
+📱 Freelancing. Previously at IBM iX, Stihl, Dr. Oetker, and others. Unity Award 2011 Nominee. I create Apps & Games under the Name [@Binary Craft](https://binary-craft.com).
 
 🔨 Part of the [AppBaumeister Collective](https://www.appbaumeister.de/). Need a full app with backend built? Come say hi! 
 
-📫 How to reach me: [@matthias_code](https://twitter.com/matthias_code), [YouTube](https://www.youtube.com/channel/UCvMdsKesM05bIG0eq7M5z1g?sub_confirmation=1), [LinkedIn](https://www.linkedin.com/in/%F0%9F%8D%8F-matthias-zarzecki-b743353b/), matthias.zarzecki [at] gmail.com.
+📫 How to reach me: [@matthias_code](https://twitter.com/matthias_code), [YouTube](https://www.youtube.com/channel/UCvMdsKesM05bIG0eq7M5z1g?sub_confirmation=1), [LinkedIn](https://www.linkedin.com/in/%F0%9F%8D%8F-matthias-zarzecki-b743353b/), matthias [at] binary-craft.com.
 
 Check out my iOS-Tutorials!
 [![Youtube Tutorial Link](media/youtube_screenshot_04.png)](https://www.youtube.com/channel/UCvMdsKesM05bIG0eq7M5z1g?sub_confirmation=1 "The Matthias iOS Development Show Channel")
